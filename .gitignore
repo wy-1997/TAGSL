@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Experiment outputs
+res_log/
+res_fold_log/
+best_model/
+results/
+checkpoints/
+*.log
+
+# Local analysis files
+*.xlsx
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
